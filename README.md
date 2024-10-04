@@ -1,16 +1,26 @@
-# omguard_three
+# OmGuard
 
-A new Flutter project.
+## Overview
+OmGuard is a decentralized application designed to combat deepfake technology, ensuring the authenticity of media content. It provides a multi-modal detection system for audio, video, and images, leveraging real-time detection capabilities and blockchain encryption to secure military communications and public safety.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- **Multi-modal Detection:** Supports detection across audio, video, and image formats to ensure comprehensive coverage.
+- **Real-time Detection:** Provides immediate feedback with confidence scores to assess the authenticity of media.
+- **Blockchain Encryption:** Secures critical military communications, ensuring tamper-proof messages and protecting against misinformation.
+- **Watermarking and Tamper-proofing:** Digital watermarking to mark media files with indelible, time-stamped watermarks for easy verification.
+- **Real-time Alerts:** Notifies users of detected deepfakes to safeguard public safety and enable immediate action.
 
-A few resources to get you started if this is your first Flutter project:
+## Target Audience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **For the Army:** Ensures soldiers on the frontline receive and send authentic information, helping prevent decisions that could cost lives or compromise missions.
+  
+- **For the Public:** In times of crisis or emergency, OmGuard helps maintain public order by preventing panic caused by false alarms or manipulated news.
+  
+- **National Security:** Safeguards military communication, ensuring only truth prevails in defense and public safety matters.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/showymato/Omguard.git
