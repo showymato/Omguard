@@ -1,0 +1,19 @@
+
+{
+  "name": "army_communication",
+  "version": "1.0.0",
+  "main": "upload.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node upload.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A project for army communication using encrypted file uploads",
+  "dependencies": {
+    "@lighthouse-web3/sdk": "^0.3.7",
+    "dotenv": "^16.4.5"
+  }
+}
